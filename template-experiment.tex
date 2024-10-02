@@ -3,12 +3,24 @@
 % \usepackage[paperwidth=148mm, paperheight=210mm, top=1.27cm, bottom=1.27cm, inner=1.9cm, outer=1.27cm, headsep=1.5cm, footskip=1.75cm]{geometry} % Custom dimensions and margins
 % Adjusted margins to ensure space for page numbers
 \usepackage[paperwidth=148mm, paperheight=210mm, 
-            top=1.27cm, bottom=2.5cm, inner=1.9cm, outer=1.27cm, 
-            headsep=1.5cm, footskip=1.5cm]{geometry}
+         top=1.27cm, bottom=2.5cm, inner=1.9cm, outer=1.27cm, 
+         headsep=1.5cm, footskip=1.5cm]{geometry}
 
 
 \usepackage[utf8]{inputenc}
 \usepackage{ctex}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clear all header and footer fields
+% \fancyfoot[C]{\thepage} % Center the page number at the bottom
+% Define left and right page numbering
+\fancyfoot[LE]{\thepage} % Left side for even pages
+\fancyfoot[RO]{\thepage} % Right side for odd pages
+% Ensure the chapter pages (plain style) also have this layout
+\makeatletter
+\let\ps@plain\ps@fancy
+\makeatother
 
 % *-----------------------------------------------------------------------*
 % | Fonts and typography                                                  |
