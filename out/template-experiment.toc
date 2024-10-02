@@ -2,8 +2,8 @@
 \contentsline {chapter}{\numberline {2}\ruby {振}{}\ruby {り}{}仮名用例}{5}{}%
 \contentsline {section}{\numberline {2.1}漢字と\ruby {平仮名}{ひらがな}}{5}{}%
 \contentsline {section}{\numberline {2.2}漢字用\ruby {粵切字}{}}{5}{}%
-\contentsline {section}{\numberline {2.3}Background}{6}{}%
-\contentsline {subsection}{\numberline {2.3.1}History}{6}{}%
+\contentsline {section}{\numberline {2.3}Background}{7}{}%
+\contentsline {subsection}{\numberline {2.3.1}History}{7}{}%
 \contentsline {subsubsection}{Ancient History}{7}{}%
 \contentsline {paragraph}{Key Events}{7}{}%
 \contentsline {subparagraph}{Event Details}{7}{}%
