@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.26)  2 OCT 2024 21:08
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.26)  2 OCT 2024 21:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1120,35 +1120,14 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
 )
 
-Package fontspec Warning: Font "Batang" does not contain requested Script
-(fontspec)                "CJK".
-
-
-Package fontspec Info: Font family 'Batang(0)' created for font 'Batang' with
-(fontspec)             options
-(fontspec)             [Script={CJK},Path={./fonts/},Extension={.ttf}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[./fonts/Batang.ttf]/OT:language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-
 LaTeX Font Warning: Font shape `TU/BabelStoneHan(0)/b/n' undefined
-(Font)              using `TU/BabelStoneHan(0)/m/n' instead on input line 362.
+(Font)              using `TU/BabelStoneHan(0)/m/n' instead on input line 363.
 
 (out/template-experiment.toc
 
 LaTeX Font Warning: Font shape `TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n' undefined
 (Font)              using `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n' instead on input line 1.
 
-
-LaTeX Font Warning: Font shape `TU/Batang(0)/b/n' undefined
-(Font)              using `TU/Batang(0)/m/n' instead on input line 1.
-
-Missing character: There is no 粵 (U+7CB5) in font [./fonts/Batang.ttf]/OT:language=dflt;!
 LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1157,7 +1136,6 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Missing character: There is no 仮 (U+4EEE) in font [./fonts/Batang.ttf]/OT:language=dflt;!
 Missing character: There is no  (U+E2EC) in font [lmroman5-regular]:mapping=tex-text;!
 Missing character: There is no  (U+E265) in font [lmroman5-regular]:mapping=tex-text;!
 Missing character: There is no  (U+E227) in font [lmroman5-regular]:mapping=tex-text;!
@@ -1169,8 +1147,6 @@ Missing character: There is no  (U+E227) in font [lmroman5-regular]:mapping=t
 
 ]
 Chapter 1.
-Missing character: There is no 〡 (U+3021) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no 粵 (U+7CB5) in font [./fonts/Batang.ttf]/OT:language=dflt;!
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1202,127 +1178,123 @@ Missing character: There is no ⁼ (U+207C) in font [./fonts/JyutcitziWithSource
 Missing character: There is no ⁼ (U+207C) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
 Missing character: There is no ⁼ (U+207C) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
 
-Underfull \hbox (badness 3049) in paragraph at lines 448--448
+Underfull \hbox (badness 3049) in paragraph at lines 449--449
 []\TU/BabelStoneHan(0)/b/n/10 咁 都 係 果 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10 D \TU/BabelStoneHan(0)/b/n/10 嘢
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 448--448
+Underfull \hbox (badness 1383) in paragraph at lines 449--449
 \TU/BabelStoneHan(0)/b/n/10 嘎 啦，|  廿 鯪 蚊 個
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 448--448
+Underfull \hbox (badness 1383) in paragraph at lines 449--449
 \TU/BabelStoneHan(0)/b/n/10 咩？|  求 求 其 其 有
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 448--448
+Underfull \hbox (badness 1019) in paragraph at lines 449--449
 \TU/BabelStoneHan(0)/b/n/10 懵 口 懵 面 咪 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10 Lui
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 449--449
 \TU/BabelStoneHan(0)/b/n/10 廠 返 寫 字 樓 囉。|
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 448--448
+Underfull \hbox (badness 1383) in paragraph at lines 449--449
 \TU/BabelStoneHan(0)/b/n/10 啦，|  廿 鯪 蚊 個 餐
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 449--449
 \TU/BabelStoneHan(0)/b/n/10 得 你 食 天 九 翅
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 448--448
+Underfull \hbox (badness 1383) in paragraph at lines 449--449
 \TU/BabelStoneHan(0)/b/n/10 咩？|  求 求 其 其 有
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 448--448
+Underfull \hbox (badness 1383) in paragraph at lines 449--449
 \TU/BabelStoneHan(0)/b/n/10 返 寫 字 樓 囉。|  唔
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 449--449
 \TU/BabelStoneHan(0)/b/n/10 晏 仔 咁 簡 單 啊。|
  []
 
 Missing character: There is no ⁼ (U+207C) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
 Missing character: There is no ⁼ (U+207C) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
 
-Underfull \hbox (badness 5217) in paragraph at lines 448--448
+Underfull \hbox (badness 5217) in paragraph at lines 449--449
 \TU/BabelStoneHan(0)/b/n/10 天 九 翅 文 旡 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10 ¯\TU/BabelStoneHan(0)/b/n/10 ？|
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 448--448
+Underfull \hbox (badness 1983) in paragraph at lines 449--449
 \TU/BabelStoneHan(0)/b/n/10 懵 面 文 兮 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10 `\TU/BabelStoneHan(0)/b/n/10 力 句
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 448--448
+Underfull \hbox (badness 1371) in paragraph at lines 449--449
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10 ¯ \TU/BabelStoneHan(0)/b/n/10 返 去 返 工 返 學
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 448--448
+Underfull \hbox (badness 1383) in paragraph at lines 449--449
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10 󰗘\TU/BabelStoneHan(0)/b/n/10 ？|  求 々 其 々 有
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 448--448
+Underfull \hbox (badness 2744) in paragraph at lines 449--449
 \TU/BabelStoneHan(0)/b/n/10 廠 返 寫 字 樓 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10 󰼠\TU/BabelStoneHan(0)/b/n/10 。|
  []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 448--448
+Underfull \hbox (badness 1552) in paragraph at lines 449--449
 \TU/BabelStoneHan(0)/b/n/10 餐 晏 仔 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10 󱜪 \TU/BabelStoneHan(0)/b/n/10 簡 單
  []
 
 [4]
 Chapter 2.
-Missing character: There is no 〢 (U+3022) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no 仮 (U+4EEE) in font [./fonts/Batang.ttf]/OT:language=dflt;!
 Missing character: There is no  (U+E2EC) in font [lmroman6-bold]:mapping=tex-text;!
 Missing character: There is no  (U+E265) in font [lmroman6-bold]:mapping=tex-text;!
 Missing character: There is no  (U+E227) in font [lmroman6-bold]:mapping=tex-text;!
-Missing character: There is no 粵 (U+7CB5) in font [./fonts/Batang.ttf]/OT:language=dflt;!
 
 LaTeX Font Warning: Font shape `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/it' undefined
-(Font)              using `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n' instead on input line 469.
+(Font)              using `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n' instead on input line 470.
 
-Missing character: There is no 搞 (U+641E) in font [./fonts/Batang.ttf]/OT:language=dflt;!
 
-Underfull \hbox (badness 4279) in paragraph at lines 484--490
+Underfull \hbox (badness 4279) in paragraph at lines 485--491
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10  󱍑  󰼐󱑡  󱍑  󰼐󱑡  󱍑 
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 484--490
+Underfull \hbox (badness 4279) in paragraph at lines 485--491
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10  󱍑  󰼐󱑡  󱍑  󰼐󱑡  󱍑 
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 484--490
+Underfull \hbox (badness 4279) in paragraph at lines 485--491
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10  󱍑  󰼐󱑡  󱍑  󰼐󱑡  󱍑 
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 484--490
+Underfull \hbox (badness 4279) in paragraph at lines 485--491
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10  󱍑  󰼐󱑡  󱍑  󰼐󱑡  󱍑 
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 484--490
+Underfull \hbox (badness 4279) in paragraph at lines 485--491
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10  󱍑  󰼐󱑡  󱍑  󰼐󱑡  󱍑 
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 484--490
+Underfull \hbox (badness 4279) in paragraph at lines 485--491
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10  󱍑  󰼐󱑡  󱍑  󰼐󱑡  󱍑 
  []
 
@@ -1330,14 +1302,10 @@ Underfull \hbox (badness 4279) in paragraph at lines 484--490
 
 ] [6]
 Chapter 3.
-Missing character: There is no 〣 (U+3023) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no 搞 (U+641E) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no ゛ (U+309B) in font [./fonts/Batang.ttf]/OT:language=dflt;!
 Missing character: There is no ˊ ("2CA) in font cmmi7!
 Missing character: There is no ˊ ("2CA) in font cmmi7!
 Missing character: There is no ˊ ("2CA) in font cmmi7!
 Missing character: There is no ゛ (U+309B) in font [lmroman7-regular]:mapping=tex-text;!
-Missing character: There is no ゙ (U+3099) in font [./fonts/Batang.ttf]/OT:language=dflt;!
 Missing character: There is no ̇ (U+0307) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
 Missing character: There is no ż (U+017C) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
 Missing character: There is no ̣ (U+0323) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
@@ -1348,7 +1316,6 @@ Missing character: There is no ̌ (U+030C) in font [./fonts/JyutcitziWithSourceH
 Missing character: There is no č (U+010D) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
 Missing character: There is no ̨ (U+0328) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
 Missing character: There is no ą (U+0105) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
-Missing character: There is no 々 (U+3005) in font [./fonts/Batang.ttf]/OT:language=dflt;!
 [7
 
 ]
@@ -1369,42 +1336,42 @@ Missing character: There is no 󰼐 (U+F0F10) in font [lmroman8-regular]:mapping
 Missing character: There is no 󱑡 (U+F1461) in font [lmroman8-regular]:mapping=tex-text;!
 Missing character: There is no  (U+E1EA) in font [lmroman8-regular]:mapping=tex-text;!
 
-Underfull \hbox (badness 4279) in paragraph at lines 536--541
+Underfull \hbox (badness 4279) in paragraph at lines 537--542
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10  󱍑  󰼐󱑡  󱍑  󰼐󱑡  󱍑 
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 536--541
+Underfull \hbox (badness 4279) in paragraph at lines 537--542
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10  󱍑  󰼐󱑡  󱍑  󰼐󱑡  󱍑 
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 536--541
+Underfull \hbox (badness 2698) in paragraph at lines 537--542
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10  󱍑  󰼐󱑡  󱍑  󰼐󱑡   󱍑 
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 536--541
+Underfull \hbox (badness 4279) in paragraph at lines 537--542
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10  󱍑  󰼐󱑡  󱍑  󰼐󱑡  󱍑 
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 536--541
+Underfull \hbox (badness 2698) in paragraph at lines 537--542
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10  󱍑  󰼐󱑡   󱍑  󰼐󱑡  󱍑 
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 536--541
+Underfull \hbox (badness 4279) in paragraph at lines 537--542
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10  󱍑  󰼐󱑡  󱍑  󰼐󱑡  󱍑 
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 536--541
+Underfull \hbox (badness 4279) in paragraph at lines 537--542
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10  󱍑  󰼐󱑡  󱍑  󰼐󱑡  󱍑 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 536--541
+Underfull \hbox (badness 10000) in paragraph at lines 537--542
 
  []
 
@@ -1412,36 +1379,77 @@ Underfull \hbox (badness 10000) in paragraph at lines 536--541
 Underfull \vbox (badness 1226) has occurred while \output is active []
 
  [8]
-Missing character: There is no 曽 (U+66FD) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no 祢 (U+7962) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no 為 (U+70BA) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no 恵 (U+6075) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no 為 (U+70BA) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no 楽 (U+697D) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 551--555
+Underfull \hbox (badness 10000) in paragraph at lines 552--556
 
  []
 
-Missing character: There is no 々 (U+3005) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no 々 (U+3005) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no 匂 (U+5302) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no – (U+2013) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no – (U+2013) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no – (U+2013) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no – (U+2013) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no 為 (U+70BA) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no 奥 (U+5965) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no – (U+2013) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no — (U+2014) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no – (U+2013) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no 浅 (U+6D45) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no – (U+2013) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no 酔 (U+9154) in font [./fonts/Batang.ttf]/OT:language=dflt;!
-Missing character: There is no – (U+2013) in font [./fonts/Batang.ttf]/OT:language=dflt;!
+
+Package fontspec Warning: Font "Batang" does not contain requested Script
+(fontspec)                "CJK".
+
+
+Package fontspec Info: Font family 'Batang(0)' created for font 'Batang' with
+(fontspec)             options
+(fontspec)             [Script={CJK},Path={./fonts/},Extension={.ttf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[./fonts/Batang.ttf]/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
 Missing character: There is no 恆 (U+6046) in font [./fonts/Batang.ttf]/OT:language=dflt;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-Missing character: There is no 濶 (U
+Underfull \hbox (badness 10000) in paragraph at lines 594--595
+
+ []
+
+[10]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--606
+|\TU/BabelStoneHan(0)/b/n/24.88 〤 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/24.88 Mathematical Formu-
+ []
+
+
+Underfull \vbox (badness 4726) has occurred while \output is active []
+
+ [11
+
+] [12]
+Overfull \hbox (48.5753pt too wide) in paragraph at lines 707--708
+[][] 
+ []
+
+
+Overfull \hbox (4.40805pt too wide) in paragraph at lines 739--740
+[][] 
+ []
+
+Missing character: There is no ] ("5D) in font nullfont!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13] [14]
+Chapter 5.
+[15
+
+] (out/template-experiment.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 42747 strings out of 476683
+ 1078555 string characters out of 5804047
+ 1917018 words of memory out of 5000000
+ 62416 multiletter control sequences out of 15000+600000
+ 525073 words of font info for 130 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 298i,20n,252p,1716b,4358s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on out/template-experiment.pdf (15 pages).
