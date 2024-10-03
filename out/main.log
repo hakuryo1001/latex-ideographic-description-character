@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.26)  3 OCT 2024 19:04
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.26)  3 OCT 2024 19:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -992,8 +992,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16] [17]
-Underfull \vbox (badness 1199) has occurred while \output is active []
+ [16]
+Underfull \vbox (badness 7851) has occurred while \output is active []
+
+ [17]
+Underfull \vbox (badness 1147) has occurred while \output is active []
 
  [18]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1002,7 +1005,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 7631) has occurred while \output is active []
 
  [22]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1209,12 +1212,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [89] [90]
-Underfull \vbox (badness 6300) has occurred while \output is active []
+Underfull \vbox (badness 6141) has occurred while \output is active []
 
- [91]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [92]
+ [91] [92]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [93] [94]
@@ -1265,22 +1265,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [105]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [106]
+ [105] [106]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [107]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [108]
-Missing character: There is no 𣟖 (U+237D6) in font BabelStone Han/OT:script=hani;language=dflt;!
-Missing character: There is no 𣟖 (U+237D6) in font BabelStone Han/OT:script=hani;language=dflt;!
-Missing character: There is no 𣟖 (U+237D6) in font BabelStone Han/OT:script=hani;language=dflt;!
-Missing character: There is no 𣟖 (U+237D6) in font BabelStone Han/OT:script=hani;language=dflt;!
-Missing character: There is no 𣟖 (U+237D6) in font BabelStone Han/OT:script=hani;language=dflt;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [109]
@@ -1321,10 +1312,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [121]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [122]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [123]
+ [122] [123]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [124]
@@ -1387,51 +1375,57 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [143]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [144] [145]
+ [144] [145] [146]
 Chapter 20.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 7944) has occurred while \output is active []
 
- [146
+ [147
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+] [148]
+Underfull \hbox (badness 1210) in paragraph at lines 1129--1130
+[]\TU/BabelStoneHan(0)/b/n/12 遂 將 盲 家 婆 檢 点[]，|  忽 然 哭 起 來。|  好 傷 心。|  鄰 里 走 來 問
+ []
 
- [147]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [148]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [149]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 8000) has occurred while \output is active []
 
  [150]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [151]
-Missing character: There is no 𨁍 (U+2804D) in font BabelStone Han/OT:script=hani;language=dflt;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [152]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [153] [154]
+ [153]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [154] [155]
 Chapter 21.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [155
+ [156
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [156]
+ [157]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [157] (out/main.ind [158] [159
+ [158] (out/main.ind [159]
+Underfull \hbox (badness 2359) in paragraph at lines 48--49
+\TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/12 105, 116, 125, 127,
+ []
 
+[160
+
+] [161
 
 ]) (out/main.aux)
 
@@ -1439,12 +1433,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 13808 strings out of 476683
- 364390 string characters out of 5804047
+ 13828 strings out of 476683
+ 365776 string characters out of 5804047
  1917018 words of memory out of 5000000
- 33838 multiletter control sequences out of 15000+600000
- 524222 words of font info for 114 fonts, out of 8000000 for 9000
+ 33857 multiletter control sequences out of 15000+600000
+ 524230 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,20n,124p,1190b,1135s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,20n,124p,1424b,1135s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/main.pdf (159 pages).
+Output written on out/main.pdf (161 pages).
