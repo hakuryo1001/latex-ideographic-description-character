@@ -1,0 +1,23 @@
+\contentsline {chapter}{\numberline {1}粵切字 Sample ｜  }{3}{}%
+\contentsline {chapter}{\numberline {2}\ruby {振}{}\ruby {り}{}仮名用例}{7}{}%
+\contentsline {section}{漢字と\ruby {平仮名}{ひらがな}}{7}{}%
+\contentsline {section}{漢字用\ruby {粵切字}{}}{7}{}%
+\contentsline {chapter}{\numberline {3}自序}{9}{}%
+\contentsline {chapter}{\numberline {4}橫紋柴}{10}{}%
+\contentsline {chapter}{\numberline {5}七畝肥田}{40}{}%
+\contentsline {chapter}{\numberline {6}邱瓊山}{45}{}%
+\contentsline {chapter}{\numberline {7}積福兒郎}{50}{}%
+\contentsline {chapter}{\numberline {8}閃山風}{56}{}%
+\contentsline {chapter}{\numberline {9}九魔托世}{62}{}%
+\contentsline {chapter}{\numberline {10}饑荒詩}{67}{}%
+\contentsline {chapter}{\numberline {11}瓜棚遇鬼}{68}{}%
+\contentsline {chapter}{\numberline {12}鬼怕孝心人}{71}{}%
+\contentsline {chapter}{\numberline {13}張閻王}{74}{}%
+\contentsline {chapter}{\numberline {14}修整爛命}{77}{}%
+\contentsline {chapter}{\numberline {15}骨肉試真情}{83}{}%
+\contentsline {chapter}{\numberline {16}潑婦}{95}{}%
+\contentsline {chapter}{\numberline {17}生魂遊地獄}{104}{}%
+\contentsline {chapter}{\numberline {18}借火食烟}{116}{}%
+\contentsline {chapter}{\numberline {19}好秀才}{120}{}%
+\contentsline {chapter}{\numberline {20}砒霜砵}{146}{}%
+\contentsline {chapter}{\numberline {21}茅寮訓子}{155}{}%
