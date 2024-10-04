@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.26)  3 OCT 2024 19:52
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.26)  4 OCT 2024 02:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/hongjan/Documents/book-zukwaakingtaam/main
-(/Users/hongjan/Documents/book-zukwaakingtaam/main.tex
+**/Users/hongjan/Documents/book-cantonese-essays/main
+(/Users/hongjan/Documents/book-cantonese-essays/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
@@ -635,13 +635,13 @@ LaTeX Font Info:    ... okay on input line 246.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(56.9055pt, 328.06017pt, 36.13512pt)
+* h-part:(L,W,R)=(62.59596pt, 322.3697pt, 36.13512pt)
 * v-part:(T,H,B)=(36.13512pt, 490.24088pt, 71.13188pt)
 * \paperwidth=421.10078pt
 * \paperheight=597.50787pt
-* \textwidth=328.06017pt
+* \textwidth=322.3697pt
 * \textheight=490.24088pt
-* \oddsidemargin=-15.36449pt
+* \oddsidemargin=-9.67403pt
 * \evensidemargin=-36.13487pt
 * \topmargin=-90.814pt
 * \headheight=12.0pt
@@ -737,69 +737,58 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Missing character: There is no  (U+E2EC) in font [lmroman5-regular]:mapping=tex-text;!
-Missing character: There is no  (U+E265) in font [lmroman5-regular]:mapping=tex-text;!
-Missing character: There is no  (U+E227) in font [lmroman5-regular]:mapping=tex-text;!
-
-Overfull \hbox (0.59625pt too wide) detected at line 12
+Overfull \hbox (0.59625pt too wide) detected at line 10
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/17.28 10 
  []
 
 
-Overfull \hbox (0.59625pt too wide) detected at line 13
+Underfull \vbox (badness 1199) has occurred while \output is active []
+
+ [1
+
+]
+Overfull \hbox (0.59625pt too wide) detected at line 11
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/17.28 11 
  []
 
-[1
 
-]
-Overfull \hbox (0.59625pt too wide) detected at line 14
+Overfull \hbox (0.59625pt too wide) detected at line 12
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/17.28 12 
  []
 
 
-Overfull \hbox (0.59625pt too wide) detected at line 15
+Overfull \hbox (0.59625pt too wide) detected at line 13
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/17.28 13 
  []
 
 
-Overfull \hbox (0.59625pt too wide) detected at line 16
+Overfull \hbox (0.59625pt too wide) detected at line 14
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/17.28 14 
  []
 
 
-Overfull \hbox (0.59625pt too wide) detected at line 17
+Overfull \hbox (0.59625pt too wide) detected at line 15
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/17.28 15 
  []
 
 
-Overfull \hbox (0.59625pt too wide) detected at line 18
+Overfull \hbox (0.59625pt too wide) detected at line 16
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/17.28 16 
  []
 
 
-Overfull \hbox (0.59625pt too wide) detected at line 19
+Overfull \hbox (0.59625pt too wide) detected at line 17
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/17.28 17 
  []
 
 
-Overfull \hbox (0.59625pt too wide) detected at line 20
+Overfull \hbox (0.59625pt too wide) detected at line 18
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/17.28 18 
  []
 
 
-Overfull \hbox (0.59625pt too wide) detected at line 21
+Overfull \hbox (0.59625pt too wide) detected at line 19
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/17.28 19 
- []
-
-
-Overfull \hbox (0.59625pt too wide) detected at line 22
-\TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/17.28 20 
- []
-
-
-Overfull \hbox (0.59625pt too wide) detected at line 23
-\TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/17.28 21 
  []
 
 )
@@ -808,6 +797,11 @@ Overfull \hbox (0.59625pt too wide) detected at line 23
 
  [2]
 Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--262
+|\TU/BabelStoneHan(0)/b/n/24.88 〡 粵 切 字 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/24.88 Sample \TU/BabelStoneHan(0)/b/n/24.88 ｜
+ []
+
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -816,73 +810,73 @@ Chapter 1.
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Overfull \hbox (3.15398pt too wide) in paragraph at lines 305--305
+Overfull \hbox (3.72302pt too wide) in paragraph at lines 305--305
  []\TU/lmr/m/n/12 /aa/ 
  []
 
 
-Overfull \hbox (1.18597pt too wide) in paragraph at lines 305--305
+Overfull \hbox (1.75502pt too wide) in paragraph at lines 305--305
  []\TU/lmr/m/n/12 aam 
  []
 
 
-Overfull \hbox (3.80197pt too wide) in paragraph at lines 305--305
+Overfull \hbox (4.37102pt too wide) in paragraph at lines 305--305
  []\TU/lmr/m/n/12 aang 
  []
 
 
-Overfull \hbox (2.81798pt too wide) in paragraph at lines 305--305
+Overfull \hbox (3.38702pt too wide) in paragraph at lines 305--305
  []\TU/lmr/m/n/12 /oe/ 
  []
 
 
-Overfull \hbox (3.46597pt too wide) in paragraph at lines 305--305
+Overfull \hbox (4.03502pt too wide) in paragraph at lines 305--305
  []\TU/lmr/m/n/12 oeng 
  []
 
 
-Overfull \hbox (2.49397pt too wide) in paragraph at lines 305--305
+Overfull \hbox (3.06302pt too wide) in paragraph at lines 305--305
  []\TU/lmr/m/n/12 /eo/ 
  []
 
 
-Overfull \hbox (4.12598pt too wide) in paragraph at lines 305--305
+Overfull \hbox (4.69502pt too wide) in paragraph at lines 305--305
  []\TU/lmr/m/n/12 /yu/ 
  []
 
 > Step: build the whole table.
 
-Overfull \hbox (3.15398pt too wide) in paragraph at lines 305--305
+Overfull \hbox (3.72302pt too wide) in paragraph at lines 305--305
  []\TU/lmr/m/n/12 /aa/ 
  []
 
 
-Overfull \hbox (1.18597pt too wide) in paragraph at lines 305--305
+Overfull \hbox (1.75502pt too wide) in paragraph at lines 305--305
  []\TU/lmr/m/n/12 aam 
  []
 
 
-Overfull \hbox (3.80197pt too wide) in paragraph at lines 305--305
+Overfull \hbox (4.37102pt too wide) in paragraph at lines 305--305
  []\TU/lmr/m/n/12 aang 
  []
 
 
-Overfull \hbox (2.81798pt too wide) in paragraph at lines 305--305
+Overfull \hbox (3.38702pt too wide) in paragraph at lines 305--305
  []\TU/lmr/m/n/12 /oe/ 
  []
 
 
-Overfull \hbox (3.46597pt too wide) in paragraph at lines 305--305
+Overfull \hbox (4.03502pt too wide) in paragraph at lines 305--305
  []\TU/lmr/m/n/12 oeng 
  []
 
 
-Overfull \hbox (2.49397pt too wide) in paragraph at lines 305--305
+Overfull \hbox (3.06302pt too wide) in paragraph at lines 305--305
  []\TU/lmr/m/n/12 /eo/ 
  []
 
 
-Overfull \hbox (4.12598pt too wide) in paragraph at lines 305--305
+Overfull \hbox (4.69502pt too wide) in paragraph at lines 305--305
  []\TU/lmr/m/n/12 /yu/ 
  []
 
@@ -909,536 +903,191 @@ Missing character: There is no ⁼ (U+207C) in font [./fonts/JyutcitziWithSource
 Missing character: There is no ⁼ (U+207C) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
 Missing character: There is no ⁼ (U+207C) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
-\TU/BabelStoneHan(0)/b/n/12 晏 仔 咁 簡 單
+Underfull \hbox (badness 1975) in paragraph at lines 344--344
+[]|\TU/BabelStoneHan(0)/b/n/12 咁 都 係 果 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/12 D
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 344--344
+\TU/BabelStoneHan(0)/b/n/12 求 求 其 其 有
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 344--344
+\TU/BabelStoneHan(0)/b/n/12 唔 通 有 得 你
  []
 
 Missing character: There is no ⁼ (U+207C) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
 Missing character: There is no ⁼ (U+207C) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
 
-Underfull \hbox (badness 3343) in paragraph at lines 344--344
+Underfull \hbox (badness 1675) in paragraph at lines 344--344
 []|\TU/BabelStoneHan(0)/b/n/12 丩 今 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/12 ´ \TU/BabelStoneHan(0)/b/n/12 都 係
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 344--344
-\TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/12 ¯\TU/BabelStoneHan(0)/b/n/12 ？|  求 々 其 々
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
+Underfull \hbox (badness 4779) in paragraph at lines 344--344
 \TU/BabelStoneHan(0)/b/n/12 野 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/12 󱛒󰿒\TU/BabelStoneHan(0)/b/n/12 ，|  廿
  []
 
 
-Underfull \hbox (badness 2689) in paragraph at lines 344--344
-\TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/12 󰻃 \TU/BabelStoneHan(0)/b/n/12 蚊 個 餐 又
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
+Underfull \hbox (badness 3407) in paragraph at lines 344--344
 \TU/BabelStoneHan(0)/b/n/12 你 懵 口 懵 面
  []
 
 
-Underfull \hbox (badness 4981) in paragraph at lines 344--344
+Underfull \hbox (badness 1831) in paragraph at lines 344--344
 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/12 󰖚󰾠 \TU/BabelStoneHan(0)/b/n/12 返 去 返
  []
 
 
-Underfull \hbox (badness 1325) in paragraph at lines 344--344
-\TU/BabelStoneHan(0)/b/n/12 單 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/12 󰀓\TU/BabelStoneHan(0)/b/n/12 。| \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/12 󱜩 \TU/BabelStoneHan(0)/b/n/12 跟
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
-\TU/BabelStoneHan(0)/b/n/12 飯 定 跟 意 粉
- []
-
-
-LaTeX Warning: Float too large for page by 10.50659pt on input line 345.
+LaTeX Warning: Float too large for page by 10.33536pt on input line 345.
 
 [5] [6]
 Chapter 2.
-Missing character: There is no  (U+E2EC) in font [lmroman7-bold]:mapping=tex-text;!
-Missing character: There is no  (U+E265) in font [lmroman7-bold]:mapping=tex-text;!
-Missing character: There is no  (U+E227) in font [lmroman7-bold]:mapping=tex-text;!
 
-LaTeX Font Warning: Font shape `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/it' undefined
-(Font)              using `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n' instead on input line 365.
+Package fontspec Warning: Font "Batang" does not contain requested Script
+(fontspec)                "CJK".
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package fontspec Info: Font family 'Batang(0)' created for font 'Batang' with
+(fontspec)             options
+(fontspec)             [Script={CJK},Path={./fonts/},Extension={.ttf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[./fonts/Batang.ttf]/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Underfull \vbox (badness 1259) has occurred while \output is active []
 
  [7
 
-] [8]
+] [8] [9] [10]
+Underfull \vbox (badness 1577) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \vbox (badness 1577) has occurred while \output is active []
+
+ [13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14] [15]
 Chapter 3.
-[9
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16
+
+] [17]
+Chapter 4.
+[18
 
 ]
-Chapter 4.
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10
+ [19]
+Underfull \vbox (badness 1231) has occurred while \output is active []
 
-] [11]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12] [13] [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16]
-Underfull \vbox (badness 7851) has occurred while \output is active []
-
- [17]
-Underfull \vbox (badness 1147) has occurred while \output is active []
-
- [18]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19] [20]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21]
-Underfull \vbox (badness 7631) has occurred while \output is active []
-
- [22]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [26]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [27]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [28]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [29]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [30]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [31] [32]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [33]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [34]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [35] [36]
-Underfull \vbox (badness 6364) has occurred while \output is active []
-
- [37]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [38] [39]
+ [20] [21] [22]
 Chapter 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [40
+ [23
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [41]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [42]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [43] [44]
+ [24] [25]
 Chapter 6.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [45
+[26
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [46]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [47]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [48] [49]
 Chapter 7.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [50
+[27
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [51]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [52]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [53]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [54] [55]
 Chapter 8.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [56
+[28
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [57]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [58]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [59]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [60] [61]
 Chapter 9.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [62
+[29
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [63]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [64]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [65] [66]
 Chapter 10.
-[67
 
-]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30
+
+] [31]
 Chapter 11.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [68
+[32
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [69] [70]
 Chapter 12.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [71
+ [33
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [72] [73]
+] [34]
 Chapter 13.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [74
+[35
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [75] [76]
 Chapter 14.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [77
+[36
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [78]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [79]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [80]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [81] [82]
 Chapter 15.
-Missing character: There is no 𣅜 (U+2315C) in font BabelStone Han/OT:script=hani;language=dflt;!
-[83
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [84]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [85]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [86]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [87]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [88]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [89] [90]
-Underfull \vbox (badness 6141) has occurred while \output is active []
-
- [91] [92]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [93] [94]
+ [38] [39]
 Chapter 16.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [95
+[40
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [96]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [97]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [98]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [99]
-Underfull \hbox (badness 1038) in paragraph at lines 881--882
-[]\TU/BabelStoneHan(0)/b/n/12 齊 仲 良 之 妻 歸 來，|  殯 葬 其 夫 既 畢。|  又 到 女 親 家 大 忿 氣
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [100]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [101]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [102] [103]
 Chapter 17.
-
-Underfull \hbox (badness 1210) in paragraph at lines 897--898
-[]\TU/BabelStoneHan(0)/b/n/12 一 息 間，|  蘭 吉 似 醉 而 睡，|  似 見 一 人 身 着 青 衣，|  向 前 揖
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [104
+[41
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [105] [106]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [107]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [108]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [109]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [110]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [111]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [112]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [113]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [114] [115]
 Chapter 18.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Font Warning: Font shape `TU/JyutcitziWithSourceHanSerifTCRegular(0)/bx/n' undefined
+(Font)              using `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n' instead on input line 762.
 
- [116
+[42
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [117]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [118] [119]
+] [43] [44]
 Chapter 19.
-[120
+(out/main.ind) [45
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [121]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [122] [123]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [124]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [125]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [126]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [127]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [128]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [129]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [130]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [131]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [132]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [133]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [134]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [135]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [136]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [137]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [138]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [139]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [140]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [141]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [142]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [143]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [144] [145] [146]
-Chapter 20.
-
-Underfull \vbox (badness 7944) has occurred while \output is active []
-
- [147
-
-] [148]
-Underfull \hbox (badness 1210) in paragraph at lines 1129--1130
-[]\TU/BabelStoneHan(0)/b/n/12 遂 將 盲 家 婆 檢 点[]，|  忽 然 哭 起 來。|  好 傷 心。|  鄰 里 走 來 問
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [149]
-Underfull \vbox (badness 8000) has occurred while \output is active []
-
- [150]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [151]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [152]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [153]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [154] [155]
-Chapter 21.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [156
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [157]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [158] (out/main.ind [159]
-Underfull \hbox (badness 2359) in paragraph at lines 48--49
-\TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/12 105, 116, 125, 127,
- []
-
-[160
-
-] [161
-
-]) (out/main.aux)
+] (out/main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 13828 strings out of 476683
- 365776 string characters out of 5804047
+ 14094 strings out of 476683
+ 385295 string characters out of 5804047
  1917018 words of memory out of 5000000
- 33857 multiletter control sequences out of 15000+600000
- 524230 words of font info for 115 fonts, out of 8000000 for 9000
+ 34128 multiletter control sequences out of 15000+600000
+ 522650 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,20n,124p,1424b,1135s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,20n,124p,1210b,1135s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/main.pdf (161 pages).
+Output written on out/main.pdf (45 pages).

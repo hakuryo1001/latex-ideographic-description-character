@@ -1,23 +1,19 @@
 \contentsline {chapter}{\numberline {1}粵切字 Sample ｜  }{3}{}%
-\contentsline {chapter}{\numberline {2}\ruby {振}{}\ruby {り}{}仮名用例}{7}{}%
-\contentsline {section}{漢字と\ruby {平仮名}{ひらがな}}{7}{}%
-\contentsline {section}{漢字用\ruby {粵切字}{}}{7}{}%
-\contentsline {chapter}{\numberline {3}自序}{9}{}%
-\contentsline {chapter}{\numberline {4}橫紋柴}{10}{}%
-\contentsline {chapter}{\numberline {5}七畝肥田}{40}{}%
-\contentsline {chapter}{\numberline {6}邱瓊山}{45}{}%
-\contentsline {chapter}{\numberline {7}積福兒郎}{50}{}%
-\contentsline {chapter}{\numberline {8}閃山風}{56}{}%
-\contentsline {chapter}{\numberline {9}九魔托世}{62}{}%
-\contentsline {chapter}{\numberline {10}饑荒詩}{67}{}%
-\contentsline {chapter}{\numberline {11}瓜棚遇鬼}{68}{}%
-\contentsline {chapter}{\numberline {12}鬼怕孝心人}{71}{}%
-\contentsline {chapter}{\numberline {13}張閻王}{74}{}%
-\contentsline {chapter}{\numberline {14}修整爛命}{77}{}%
-\contentsline {chapter}{\numberline {15}骨肉試真情}{83}{}%
-\contentsline {chapter}{\numberline {16}}{95}{}%
-\contentsline {chapter}{\numberline {17}生魂遊地獄}{104}{}%
-\contentsline {chapter}{\numberline {18}借火食烟}{116}{}%
-\contentsline {chapter}{\numberline {19}好秀才}{120}{}%
-\contentsline {chapter}{\numberline {20}}{147}{}%
-\contentsline {chapter}{\numberline {21}茅寮訓子}{156}{}%
+\contentsline {chapter}{\numberline {2}\ruby {囻}{󱼒}之語音}{7}{}%
+\contentsline {chapter}{\numberline {3}粵切字可「有邊讀邊」，毋需教育局，就可無師自通}{16}{}%
+\contentsline {chapter}{\numberline {4}點解漢字專用粵文對廣東話黎講係慢性自殺}{18}{}%
+\contentsline {chapter}{\numberline {5}粵文一日用口字旁，粵語就一日係方言}{23}{}%
+\contentsline {chapter}{\numberline {6}雜論1}{26}{}%
+\contentsline {chapter}{\numberline {7}雜論2}{27}{}%
+\contentsline {chapter}{\numberline {8}雜論3}{28}{}%
+\contentsline {chapter}{\numberline {9}雜論4}{29}{}%
+\contentsline {chapter}{\numberline {10}雜論5}{30}{}%
+\contentsline {chapter}{\numberline {11}雜論6}{32}{}%
+\contentsline {chapter}{\numberline {12}粵切字嘅下一步推廣策略係乜嘢？}{33}{}%
+\contentsline {chapter}{\numberline {13}我地必須虛心懺悔反省}{35}{}%
+\contentsline {chapter}{\numberline {14}「粵語入文」係一個極度自我鄙視嘅思維模式}{36}{}%
+\contentsline {chapter}{\numberline {15}拉丁化係粵切字嘗試避免嘅命運}{37}{}%
+\contentsline {chapter}{\numberline {16}廣東話喺一眾嘗試逆勢建立自己語言共同體嘅諸漢語言中，有類似周天子嘅崇高地位。}{40}{}%
+\contentsline {chapter}{\numberline {17}粵切字非常之靚}{41}{}%
+\contentsline {chapter}{\numberline {18}你每日都冇留意嘅粵語漢化}{42}{}%
+\contentsline {chapter}{\numberline {19}點解要粵字改革？點解改革要用粵切字？}{45}{}%
