@@ -1,66 +1,84 @@
-\contentsline {chapter}{\numberline {1}粵切字 Sample ｜  }{6}{}%
-\contentsline {chapter}{\numberline {2}\ruby {囻}{󱼒}之語音}{9}{}%
-\contentsline {chapter}{\numberline {3}粵切字可「有邊讀邊」，毋需教育局，就可無師自通}{16}{}%
-\contentsline {chapter}{\numberline {4}點解漢字專用粵文對廣東話黎講係慢性自殺}{17}{}%
-\contentsline {chapter}{\numberline {5}粵文一日用口字旁，粵語就一日係方言}{22}{}%
-\contentsline {chapter}{\numberline {6}雜論1}{25}{}%
-\contentsline {chapter}{\numberline {7}雜論2}{26}{}%
-\contentsline {chapter}{\numberline {8}雜論3}{27}{}%
-\contentsline {chapter}{\numberline {9}雜論4}{28}{}%
-\contentsline {chapter}{\numberline {10}雜論5}{29}{}%
-\contentsline {chapter}{\numberline {11}雜論6}{31}{}%
-\contentsline {chapter}{\numberline {12}粵切字嘅下一步推廣策略係乜嘢？}{32}{}%
-\contentsline {chapter}{\numberline {13}我地必須虛心懺悔反省}{33}{}%
-\contentsline {chapter}{\numberline {14}「粵語入文」係一個極度自我鄙視嘅思維模式}{34}{}%
-\contentsline {chapter}{\numberline {15}拉丁化係粵切字嘗試避免嘅命運}{35}{}%
-\contentsline {chapter}{\numberline {16}我地要嘅}{37}{}%
-\contentsline {chapter}{\numberline {17}廣東話喺一眾嘗試逆勢建立自己語言共同體嘅諸漢語言中，有類似周天子嘅崇高地位。}{38}{}%
-\contentsline {chapter}{\numberline {18}粵切字非常之靚}{39}{}%
-\contentsline {chapter}{\numberline {19}你每日都冇留意嘅粵語漢化}{40}{}%
-\contentsline {subsection}{\jcz {粵語 󱝚 漢化 係 樣 發生󱜱？}}{40}{}%
-\contentsline {chapter}{\numberline {20}點解要粵字改革？點解改革要用粵切字？}{42}{}%
-\contentsline {chapter}{\numberline {21}訓讀嘅最大好處}{45}{}%
-\contentsline {chapter}{\numberline {22}香港人 愛有 自己 嘅名}{46}{}%
-\contentsline {chapter}{\numberline {23}口字旁之弊}{55}{}%
-\contentsline {chapter}{\numberline {24}}{56}{}%
-\contentsline {chapter}{\numberline {25}Surely jyutping is a subpar romanisation system}{57}{}%
-\contentsline {chapter}{\numberline {26}本字考的根本哲學同政治取捨}{59}{}%
-\contentsline {chapter}{\numberline {27}我哋全部要晒}{60}{}%
-\contentsline {chapter}{\numberline {28}蒙古人點做，我哋要比佢哋做得更狠}{62}{}%
-\contentsline {chapter}{\numberline {29}我哋嘅子彈}{63}{}%
-\contentsline {chapter}{\numberline {30}消滅詞彙，你擔當得起？}{64}{}%
-\contentsline {chapter}{\numberline {31}香港人必須放棄漢形名}{66}{}%
-\contentsline {chapter}{\numberline {32}嗰啲自然演化出粵切字嘅平行宇宙}{67}{}%
-\contentsline {chapter}{\numberline {33}堅定流？}{68}{}%
-\contentsline {chapter}{\numberline {34}廣東話再上唔到車}{69}{}%
-\contentsline {chapter}{\numberline {35}廣東話從來冇「中英夾雜」呢回事}{70}{}%
-\contentsline {chapter}{\numberline {36}當一個人同你講「你寫返好啲中文先啦」}{71}{}%
-\contentsline {chapter}{\numberline {37}吳語小字對簡體字嘅立場}{72}{}%
-\contentsline {chapter}{\numberline {38}簡體字係我哋嘅戰略隊友}{73}{}%
-\contentsline {chapter}{\numberline {39}粵語係一個冇哲學嘅語言，甚至乎係一個不善於畀人用黎討論高階思哲內容嘅語言。}{76}{}%
-\contentsline {chapter}{\numberline {40}Epigrams}{77}{}%
-\contentsline {chapter}{\numberline {41}美感絕對不是主觀的}{81}{}%
-\contentsline {chapter}{\numberline {42}漢字專用導致嘅語法頹敗}{82}{}%
-\contentsline {chapter}{\numberline {43}漢字專用導致嘅語法頹敗}{83}{}%
-\contentsline {chapter}{\numberline {44}我們暫時建議大家用粵切字處理有音無字的粵詞}{85}{}%
-\contentsline {chapter}{\numberline {45}依戀漢字者}{87}{}%
-\contentsline {chapter}{\numberline {46}論重符「々」}{89}{}%
-\contentsline {chapter}{\numberline {47}粵語動漫}{90}{}%
-\contentsline {chapter}{\numberline {48}粵語動漫}{91}{}%
-\contentsline {chapter}{\numberline {49}不切實際論、冇可能架喇論 全部 其實 都係 求其反對論}{92}{}%
-\contentsline {chapter}{\numberline {50}呢兩日有位好朋友不停咁同我講，粵切字嘅推行唔可以再等，一定要儘快出輸入法。}{93}{}%
-\contentsline {chapter}{\numberline {51}女書嘅故仔}{95}{}%
-\contentsline {chapter}{\numberline {52}粵切字能否用來書寫其他漢系語言}{96}{}%
-\contentsline {chapter}{\numberline {53}講普通話係殖民嘅行為}{98}{}%
-\contentsline {chapter}{\numberline {54}英文呢種語言}{101}{}%
-\contentsline {chapter}{\numberline {55}「方言」呢個狗牌}{102}{}%
-\contentsline {chapter}{\numberline {56}英文可以做得我哋嘅，廣東話就係。}{107}{}%
-\contentsline {chapter}{\numberline {57}所謂的「中文」}{108}{}%
-\contentsline {chapter}{\numberline {58}正字本字的迷思}{109}{}%
-\contentsline {chapter}{\numberline {59}意借形借：與假借}{111}{}%
-\contentsline {chapter}{\numberline {60}convinced}{112}{}%
-\contentsline {chapter}{\numberline {61}〈書面化羅馬字不是完全的「我手寫我口」〉}{120}{}%
-\contentsline {chapter}{\numberline {62}親，簡體字是個好東西}{122}{}%
-\contentsline {chapter}{\numberline {63}淺論粵字發展方向}{125}{}%
-\contentsline {chapter}{\numberline {64}「冇」字}{137}{}%
-\contentsline {chapter}{\numberline {65}速議「廣東話是否方言」}{138}{}%
+\contentsline {chapter}{\numberline {1}粵切字 Sample ｜  }{5}{}%
+\contentsline {chapter}{\numberline {2}\ruby {囻}{󱼒}之語音}{8}{}%
+\contentsline {chapter}{\numberline {3}口字旁}{15}{}%
+\contentsline {section}{粵文一日用口字旁，粵語就一日係方言}{15}{}%
+\contentsline {section}{口字旁之弊}{17}{}%
+\contentsline {chapter}{\numberline {4}粵切字}{18}{}%
+\contentsline {section}{粵切字可「有邊讀邊」，毋需教育局，就可無師自通}{18}{}%
+\contentsline {section}{粵切字非常之靚}{19}{}%
+\contentsline {section}{點解要粵字改革？點解改革要用粵切字？}{19}{}%
+\contentsline {section}{我們暫時建議大家用粵切字處理有音無字的粵詞}{21}{}%
+\contentsline {section}{粵切字嘅下一步推廣策略係乜嘢？}{23}{}%
+\contentsline {section}{呢兩日有位好朋友不停咁同我講，粵切字嘅推行唔可以再等，一定要儘快出輸入法。}{23}{}%
+\contentsline {section}{粵切字能否用來書寫其他漢系語言}{25}{}%
+\contentsline {chapter}{\numberline {5}漢字}{26}{}%
+\contentsline {section}{叫唐字}{26}{}%
+\contentsline {section}{本字考的根本哲學同政治取捨}{27}{}%
+\contentsline {section}{點解漢字專用粵文對廣東話黎講係慢性自殺}{27}{}%
+\contentsline {section}{簡體字係我哋嘅戰略隊友}{32}{}%
+\contentsline {section}{shit}{35}{}%
+\contentsline {section}{漢字專用導致嘅語法頹敗}{38}{}%
+\contentsline {section}{漢字專用導致嘅語法頹敗}{38}{}%
+\contentsline {section}{依戀漢字者}{40}{}%
+\contentsline {section}{正字本字的迷思}{41}{}%
+\contentsline {section}{意借形借：與假借}{41}{}%
+\contentsline {section}{親，簡體字是個好東西}{42}{}%
+\contentsline {chapter}{\numberline {6}雜論}{45}{}%
+\contentsline {section}{雜論1}{45}{}%
+\contentsline {section}{雜論2}{45}{}%
+\contentsline {section}{雜論3}{46}{}%
+\contentsline {section}{雜論4}{46}{}%
+\contentsline {section}{雜論5}{46}{}%
+\contentsline {section}{雜論6}{48}{}%
+\contentsline {chapter}{\numberline {7}粵語拉丁化}{49}{}%
+\contentsline {section}{拉丁化係粵切字嘗試避免嘅命運}{49}{}%
+\contentsline {section}{On the whole, Jyutcitzi is preferable to Jyutping}{50}{}%
+\contentsline {section}{Surely jyutping is a subpar romanisation system}{53}{}%
+\contentsline {section}{〈書面化羅馬字不是完全的「我手寫我口」〉}{54}{}%
+\contentsline {chapter}{\numberline {8}粵語}{57}{}%
+\contentsline {section}{淺論粵字發展方向}{57}{}%
+\contentsline {section}{「冇」字}{69}{}%
+\contentsline {section}{速議「廣東話是否方言」}{70}{}%
+\contentsline {section}{你每日都冇留意嘅粵語漢化}{71}{}%
+\contentsline {subsection}{\jcz {粵語 󱝚 漢化 係 樣 發生󱜱？}}{71}{}%
+\contentsline {section}{所謂的「中文」}{72}{}%
+\contentsline {section}{廣東話從來冇「中英夾雜」呢回事}{72}{}%
+\contentsline {section}{Cantonese graphisation}{72}{}%
+\contentsline {chapter}{\numberline {9}擸雜改革}{78}{}%
+\contentsline {section}{我地要嘅}{78}{}%
+\contentsline {section}{廣東話喺一眾嘗試逆勢建立自己語言共同體嘅諸漢語言中，有類似周天子嘅崇高地位。}{78}{}%
+\contentsline {section}{}{78}{}%
+\contentsline {section}{訓讀嘅最大好處}{79}{}%
+\contentsline {section}{香港人 愛有 自己 嘅名}{79}{}%
+\contentsline {section}{我哋全部要晒}{85}{}%
+\contentsline {section}{蒙古人點做，我哋要比佢哋做得更狠}{86}{}%
+\contentsline {section}{消滅詞彙，你擔當得起？}{86}{}%
+\contentsline {section}{香港人必須放棄漢形名}{87}{}%
+\contentsline {section}{嗰啲自然演化出粵切字嘅平行宇宙}{88}{}%
+\contentsline {section}{堅定流？}{88}{}%
+\contentsline {section}{廣東話再上唔到車}{88}{}%
+\contentsline {section}{我地必須虛心懺悔反省}{88}{}%
+\contentsline {section}{「粵語入文」係一個極度自我鄙視嘅思維模式}{89}{}%
+\contentsline {section}{當一個人同你講「你寫返好啲中文先啦」}{89}{}%
+\contentsline {section}{論重符「々」}{90}{}%
+\contentsline {section}{粵語動漫}{90}{}%
+\contentsline {section}{粵語動漫}{90}{}%
+\contentsline {section}{不切實際論、冇可能架喇論 全部 其實 都係 求其反對論}{91}{}%
+\contentsline {section}{英文可以做得我哋嘅，廣東話就係。}{92}{}%
+\contentsline {section}{convinced}{92}{}%
+\contentsline {chapter}{\numberline {10}其他腍審野}{93}{}%
+\contentsline {section}{吳語小字對簡體字嘅立場}{93}{}%
+\contentsline {section}{女書嘅故仔}{93}{}%
+\contentsline {section}{「方言」呢個狗牌}{94}{}%
+\contentsline {chapter}{\numberline {11}語言同思維}{98}{}%
+\contentsline {section}{粵語係一個冇哲學嘅語言，甚至乎係一個不善於畀人用黎討論高階思哲內容嘅語言。}{98}{}%
+\contentsline {chapter}{\numberline {12}Epigrams}{99}{}%
+\contentsline {section}{我哋嘅子彈}{99}{}%
+\contentsline {chapter}{\numberline {13}美感}{100}{}%
+\contentsline {section}{美感絕對不是主觀的}{100}{}%
+\contentsline {chapter}{\numberline {14}普通話}{101}{}%
+\contentsline {section}{講普通話係殖民嘅行為}{101}{}%
+\contentsline {chapter}{\numberline {15}英文}{104}{}%
+\contentsline {section}{英文呢種語言}{104}{}%
+\contentsline {section}{命名問題 (2007年)}{104}{}%
+\contentsline {section}{對2007年命名討論嘅討論}{104}{}%

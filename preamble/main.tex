@@ -1,0 +1,189 @@
+
+% *-----------------------------------------------------------------------*
+% | Fonts and typography                                                  |
+% *-----------------------------------------------------------------------*
+
+% Set CJK main font (for Chinese/Japanese/Korean characters)
+
+% \setmainfont{Times New Roman}
+\setCJKmainfont{BabelStone Han}
+% doesn't work
+% \setCJKmainfont{JyutcitziWithSourceHanSerifTCRegular}[
+% Renderer=Basic,
+% UprightFont = * ,
+% FallbackFonts={BabelStone Han}
+% ]
+
+
+
+% You can also use \newfontfamily for custom non-CJK fonts if needed
+% \setCJKmainfont{JyutcitziWithPMingLiURegular}[Path = ./, Extension = .ttf]
+% \setCJKmainfont{JyutcitziWithSourceHanSerifTCRegular}[Path = ./, Extension = .ttf]
+
+
+
+\newfontfamily{\jczPMingLiU}{JyutcitziWithPMingLiURegular}[Path = ./fonts/, Extension = .ttf]
+% This has the best rendition for latin characters 
+\newfontfamily{\jcz}{JyutcitziWithSourceHanSerifTCRegular}[Path = ./fonts/, Extension = .ttf]
+\newfontfamily{\batang}{batang}[Path = ./fonts/, Extension = .ttf]
+\newCJKfontfamily\koreanfont{Batang}[Path = ./fonts/, Extension = .ttf]
+
+
+
+
+% *-----------------------------------------------------------------------*
+% | Formatting     |
+% *-----------------------------------------------------------------------*
+% Set global paragraph indentation and spacing
+\setlength{\parindent}{2em} % Adjust this value for the desired indentation
+\setlength{\parskip}{0pt}   % No space between paragraphs
+
+% for quotes
+\usepackage{epigraph} 
+
+
+\makeatletter
+\renewcommand{\@makefntext}[1]{\jcz{\@thefnmark.} #1}
+\makeatother
+% to control itemise spacing
+\usepackage{enumitem}
+
+
+
+% *-----------------------------------------------------------------------*
+% | Math & Equations     |
+% *-----------------------------------------------------------------------*
+\usepackage{amsmath} % For advanced math formatting
+\usepackage{amssymb} % For mathematical symbols
+% \usepackage{tikz} % For drawing logic decision trees
+
+
+% *-----------------------------------------------------------------------*
+% | Table Management                                                      |
+% *-----------------------------------------------------------------------*
+
+
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{tabularray}
+\usepackage{longtable}
+
+\usepackage{float}      % Add the float package
+
+
+\usepackage[table,xcdraw]{xcolor}
+% 
+
+% Load ruby package for furigana (Ruby text)
+\usepackage{ruby}
+% \renewcommand{\ruby}[2]{%
+%   \ruby{\jcz{#1}}{\jcz{#2}}%
+% }
+
+
+% *-----------------------------------------------------------------------*
+% | Chinese and Soochow Numerals               |
+% *-----------------------------------------------------------------------*
+
+% Define Chinese numerals for numbers 1-99
+% 〇〡〢 〣 〤 〥 〦 〧 〨 〩 十 〹 〺 卅
+% Include the numerals file
+\input{styles/numerals.tex}
+
+% *-----------------------------------------------------------------------*
+% | Table of contents & Chapter for chapter management |
+% *-----------------------------------------------------------------------*
+
+\renewcommand{\figurename}{圗} % So figures would be labeled with 圗 instead of "figure"
+
+% * * * Now for the table of contents
+\renewcommand{\contentsname}{目錄} % Traditional Chinese characters for "Contents"
+\setcounter{secnumdepth}{0} % no numbering for sections 
+% Increase chapter title size in TOC
+\usepackage{tocloft} % For customizing table of contents
+\renewcommand{\cftchapfont}{\Large\bfseries} % Large and bold chapter titles
+\renewcommand{\cftchappagefont}{\Large\bfseries} % Large and bold page numbers
+\renewcommand{\cftchapnumwidth}{3em} % Adjust the width for chapter numbers (increase the space)
+
+% Custom chapter numbering in the TOC with Soochow numerals
+\renewcommand{\cftchapleader}{\cftdotfill{\cftsecdotsep}} % Dotted line between chapter and page number
+\renewcommand{\cftchapaftersnum}{\quad} % Space between Soochow numeral and chapter title
+
+% Redefine how chapter numbers are displayed in the TOC using Soochow numerals
+\makeatletter
+\renewcommand{\cftchapleader}{\cftdotfill{\cftsecdotsep}} % Dotted line between chapter and page number
+\renewcommand{\cftchapaftersnum}{\quad} % Space between Soochow numeral and chapter title
+% comment this out if you don't want to use the soochow numerlas
+\renewcommand{\numberline}[1]{\soochowNumeral{#1}\hspace{1em}} % Use Soochow numerals for TOC chapter numbers
+\makeatother
+
+
+% create index - run \makeindex in the document
+\usepackage{makeidx}
+\makeindex
+
+
+
+% % Custom chapter title formatting with Chinese numeral chapter numbers
+\usepackage{titlesec}
+
+% Custom chapter title formatting with Chinese numeral chapter numbers
+\titleformat{\chapter}[block] % 'block' means the title appears on a new line
+  {\Large\bfseries} % Font size and bold formatting for the title
+  {\soochowNumeral{\thechapter}} % Chinese character for chapter number
+  {1em} % Space between the number and the title
+  {\Large} % Custom style for the chapter title itself (can modify)
+
+% Remove the default LaTeX behavior of forcing new chapters to start on a new page
+\makeatletter
+\renewcommand\chapter{\if@openright\cleardoublepage\else\clearpage\fi
+  \thispagestyle{plain}%
+  \global\@topnum\z@
+  \@afterindentfalse
+  \secdef\@chapter\@schapter}
+\makeatother
+
+
+
+
+\usepackage{listings}
+\usepackage{xcolor} % Optional, for colors in code
+\lstset{
+    language=Python,
+    basicstyle=\ttfamily\small,
+    keywordstyle=\color{blue},
+    commentstyle=\color{green},
+    stringstyle=\color{red},
+    breaklines=true,
+    numbers=left,
+    numberstyle=\tiny,
+    stepnumber=1,
+    frame=single,
+    captionpos=b
+}
+
+\usepackage[all]{genealogytree}
+
+% for vertical Chinese boxes
+\usepackage{graphicx} % for \rotatebox
+
+\newfontlanguage{Chinese}{CHN}
+
+\setCJKfamilyfont{BabelStoneVert}[RawFeature={vertical;+vert},Script=CJK,Language=Chinese,Vertical=RotatedGlyphs]{BabelStone Han}
+
+\newcommand*\CJKmovesymbol[1]{\raise.35em\hbox{#1}}
+\newcommand*\CJKmove{\punctstyle{plain}% do not modify the spacing between punctuations
+  \let\CJKsymbol\CJKmovesymbol
+  \let\CJKpunctsymbol\CJKsymbol}
+
+% Define a new environment for vertical text
+\newcommand{\VertCell}[1]{\rotatebox{-90}{\CJKfamily{BabelStoneVert}\CJKmove #1}}
+
+
+\input{styles/idc.tex}
+
+\usepackage{stackengine}
+
+% for laddering
+\usepackage{calc} % Needed for arithmetic in lengths
