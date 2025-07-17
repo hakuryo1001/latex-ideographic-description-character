@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  16 JUL 2025 22:50
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  16 JUL 2025 23:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1136,6 +1136,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ]
 Missing character: There is no  (U+E037) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 󱝚 (U+F175A) in font [lmroman10-regular]:mapping=tex-text;!
 
 
 [2]
@@ -1145,7 +1146,7 @@ Missing character: There is no  (U+E3EE) in font [lmroman10-regular]:mapping=
 Missing character: There is no  (U+E1ED) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no  (U+E182) in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 4084) has occurred while \output is active []
+Underfull \vbox (badness 3746) has occurred while \output is active []
 
 
 
@@ -1206,120 +1207,109 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[6]) (./chapters/1-gwok-zi-jyu-yam.tex
+[6]) (./chapters/2-hauzipong.tex
 
 [7]
 Chapter 2.
 
-Package fontspec Info: 
-(fontspec)             Script 'CJK' not explicitly supported within font
-(fontspec)             'Batang'. Check the typeset output, and if it is okay
-(fontspec)             then ignore this warning. Otherwise a different font
-(fontspec)             should be chosen.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'Batang(0)' created for font 'Batang' with
-(fontspec)             options
-(fontspec)             [Script={CJK},Path={./fonts/},Extension={.ttf}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[./fonts/Batang.ttf]/OT:script=hani;language=dflt;"
+Underfull \vbox (badness 8019) has occurred while \output is active []
 
 
 
 [8
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[9]
+
+
+[9]) (./chapters/3-jyutcitzi.tex
 
 [10]
-Underfull \vbox (badness 4353) has occurred while \output is active []
+Chapter 3.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[11]
+[11
+
+]
 
 [12]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[13]) (./chapters/2-hauzipong.tex
+[13]
 
 [14]
-Chapter 3.
-
-Underfull \vbox (badness 8019) has occurred while \output is active []
-
-
-
-[15
-
-]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[16]) (./chapters/3-jyutcitzi.tex
+[15]
+Underfull \vbox (badness 1389) has occurred while \output is active []
 
-[17]
+
+
+[16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[17]) (./chapters/4-honzi.tex
+
+[18]
 Chapter 4.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[18
+[19
 
-]
-
-[19]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[20]
+] [20]
 
 [21]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [22]
-Underfull \vbox (badness 1389) has occurred while \output is active []
-
-
 
 [23]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-[24]) (./chapters/4-honzi.tex
+[24]
 
 [25]
-Chapter 5.
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[26
+[26]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [27]
+
+
+[27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [30]
 
 [31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [32]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1327,78 +1317,78 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [33]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+Missing character: There is no  (U+E037) in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no 😩 (U+1F629) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
 
 
 [34]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [35]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[36]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[36]) (./chapters/5-random.tex
 
 [37]
-
-[38]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Chapter 5.
 
 
+[38
+
+]
 
 [39]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[40]
-Missing character: There is no  (U+E037) in font [lmroman12-bold]:mapping=tex-text;!
-Missing character: There is no 😩 (U+1F629) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
-
+[40]) (./chapters/6-romanization.tex
 
 [41]
-
-[42]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[43]) (./chapters/5-random.tex
-
-[44]
 Chapter 6.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[45
+
+
+[42
 
 ]
+
+[43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[44]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[45]
 
 [46]
+Missing character: There is no ̍ (U+030D) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ̍ (U+030D) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ̍ (U+030D) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ̍ (U+030D) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+
+
+[47]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[47]) (./chapters/6-romanization.tex
+[48]) (./chapters/7-cantonese.tex
 
-[48]
+[49]
 Chapter 7.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-[49
+[50
 
 ]
-
-[50]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1409,12 +1399,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [52]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [53]
-Missing character: There is no ̍ (U+030D) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
-Missing character: There is no ̍ (U+030D) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
-Missing character: There is no ̍ (U+030D) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
-Missing character: There is no ̍ (U+030D) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 [54]
@@ -1422,15 +1413,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[55]) (./chapters/7-cantonese.tex
+[55]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [56]
-Chapter 8.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-[57
 
-]
+[57]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1461,14 +1454,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [63]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Font Warning: Font shape `TU/JyutcitziWithSourceHanSerifTCRegular(0)/bx/n' undefined
+(Font)              using `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n' instead on input line 150.
 
 
 
 [64]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [65]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1491,52 +1483,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [69]
+Missing character: There is no 󱝚 (U+F175A) in font [lmroman12-bold]:mapping=tex-text;!
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [70]
-
-LaTeX Font Warning: Font shape `TU/JyutcitziWithSourceHanSerifTCRegular(0)/bx/n' undefined
-(Font)              using `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n' instead on input line 152.
-
-
+Missing character: There is no ̍ (U+030D) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+) (./chapters/8-other-reforms.tex
 
 [71]
-
-[72]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[73]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[74]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[75]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[76]) (./chapters/8-other-reforms.tex
-
-[77]
-Chapter 9.
+Chapter 8.
 Missing character: There is no  (U+E381) in font [lmroman12-bold]:mapping=tex-text;!
 Missing character: There is no  (U+E1E1) in font [lmroman12-bold]:mapping=tex-text;!
 
 
-[78
+[72
 
 ]
 
-[79]
+[73]
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
@@ -1572,7 +1539,7 @@ Package fontspec Info:
 
 
 
-[80]
+[74]
 Overfull \hbox (71.8343pt too wide) in paragraph at lines 71--72
 [][][][][][] 
  []
@@ -1722,12 +1689,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[81]
+[75]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[82]
+[76]
 \gtr@pbox=\box139
 \gtr@pbox=\box140
 \gtr@pbox=\box141
@@ -1781,93 +1748,133 @@ Underfull \vbox (badness 7613) has occurred while \output is active []
 
 
 
-[83]
+[77]
 Overfull \vbox (334.88876pt too high) has occurred while \output is active []
 
 
 
-[84]
+[78]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
+[79]
+
+[80]
+Missing character: There is no 😅 (U+1F605) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+
+
+[81]
+
+[82]
+
+[83]
+
+[84]
+
 [85]
+Missing character: There is no  (U+E3EE) in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no  (U+E1ED) in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no  (U+E182) in font [lmroman12-bold]:mapping=tex-text;!
+
+Underfull \vbox (badness 6380) has occurred while \output is active []
+
+
 
 [86]
-Missing character: There is no 😅 (U+1F605) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ✅ (U+2705) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ❌ (U+274C) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+) (./chapters/9-others.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 [87]
 
 [88]
+Chapter 9.
 
-[89]
+
+[89
+
+]
 
 [90]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [91]
-Missing character: There is no  (U+E3EE) in font [lmroman12-bold]:mapping=tex-text;!
-Missing character: There is no  (U+E1ED) in font [lmroman12-bold]:mapping=tex-text;!
-Missing character: There is no  (U+E182) in font [lmroman12-bold]:mapping=tex-text;!
-) (./chapters/9-others.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [92]
-Chapter 10.
+
+Package fontspec Info: 
+(fontspec)             Script 'CJK' not explicitly supported within font
+(fontspec)             'Batang'. Check the typeset output, and if it is okay
+(fontspec)             then ignore this warning. Otherwise a different font
+(fontspec)             should be chosen.
 
 
-[93
+Package fontspec Info: 
+(fontspec)             Font family 'Batang(0)' created for font 'Batang' with
+(fontspec)             options
+(fontspec)             [Script={CJK},Path={./fonts/},Extension={.ttf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[./fonts/Batang.ttf]/OT:script=hani;language=dflt;"
 
-]
+
+
+[93]
 
 [94]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [95]
+Underfull \vbox (badness 4353) has occurred while \output is active []
+
+
+
+[96]
+
+[97]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[96]) (./chapters/10-language-and-thought.tex
+[98]) (./chapters/10-language-and-thought.tex
 
-[97]
-Chapter 11.
+[99]
+Chapter 10.
 ) (./chapters/11-epigrams.tex
-
-[98
-
-]
-Chapter 12.
-) (./chapters/12-aesthetics.tex
-
-[99
-
-]
-Chapter 13.
-) (./chapters/13-putonghua.tex
 
 [100
 
 ]
-Chapter 14.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+Chapter 11.
 
 
 [101
 
+]) (./chapters/12-aesthetics.tex
+
+[102]
+Chapter 12.
+) (./chapters/13-putonghua.tex
+
+[103
+
 ]
+Chapter 13.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-
-[102]) (./chapters/14-english.tex
-
-[103]
-Chapter 15.
-) (./chapters/15-wikipedia-tongzi.tex
 
 [104
 
@@ -1876,27 +1883,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[105]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[105]) (./chapters/14-english.tex
 
 [106]
-Underfull \hbox (badness 1038) in paragraph at lines 49--49
- \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10 @Longway22\TU/BabelStoneHan(0)/b/n/10 ：|  其 實 我 最 初 唔 係 好 想 搞
- []
+Chapter 14.
+) (./chapters/15-wikipedia-tongzi.tex
+
+[107
+
+]
+Chapter 15.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[108
 
-
-
-[107]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[108]
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1906,9 +1907,34 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[110]) (out/cantonese-papers.ind)
+[110]
+Underfull \hbox (badness 1038) in paragraph at lines 49--49
+ \TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n/10 @Longway22\TU/BabelStoneHan(0)/b/n/10 ：|  其 實 我 最 初 唔 係 好 想 搞
+ []
 
-[111] (out/cantonese-papers.aux)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[111]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[112]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[113]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[114]) (out/cantonese-papers.ind)
+
+[115] (out/cantonese-papers.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
@@ -1919,12 +1945,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 34864 strings out of 473832
- 871471 string characters out of 5729481
- 1932457 words of memory out of 5000000
- 57297 multiletter control sequences out of 15000+600000
- 570165 words of font info for 124 fonts, out of 8000000 for 9000
+ 34859 strings out of 473832
+ 871209 string characters out of 5729481
+ 1929829 words of memory out of 5000000
+ 57296 multiletter control sequences out of 15000+600000
+ 570157 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  121i,20n,123p,2038b,2192s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/cantonese-papers.pdf (111 pages).
+Output written on out/cantonese-papers.pdf (115 pages).
