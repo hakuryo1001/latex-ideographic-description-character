@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  25 SEP 2025 23:11
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  26 SEP 2025 00:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/hongjan/Documents/book-multiverse/multiverse
-(/Users/hongjan/Documents/book-multiverse/multiverse.tex
+**/Users/hongjan/Documents/book-testament/testament
+(/Users/hongjan/Documents/book-testament/testament.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
@@ -625,10 +625,10 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 )
 \@indexfile=\write3
-\openout3 = `multiverse.idx'.
+\openout3 = `testament.idx'.
 
 
-Writing index file multiverse.idx
+Writing index file testament.idx
 (/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box92
@@ -998,8 +998,8 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \stackedbox=\box137
 \@centerbox=\box138
 \c@ROWcellindex@=\count393
-)) (out/multiverse.aux)
-\openout1 = `multiverse.aux'.
+)) (out/testament.aux)
+\openout1 = `testament.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
@@ -1122,102 +1122,31 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[1
-
-])
+))
 
 LaTeX Font Warning: Font shape `TU/BabelStoneHan(0)/b/n' undefined
 (Font)              using `TU/BabelStoneHan(0)/m/n' instead on input line 43.
 
-(out/multiverse.toc
+(out/testament.toc
 
 LaTeX Font Warning: Font shape `TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n' undefined
 (Font)              using `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n' instead on input line 1.
 
 )
 \tf@toc=\write5
-\openout5 = `multiverse.toc'.
+\openout5 = `testament.toc'.
 
- (./chapters/0-sample.tex
+ (./chapters/0-sample.tex) (./chapters/1-stories.tex
 
-[2]
-Chapter 1.
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-
-Overfull \hbox (0.76302pt too wide) in paragraph at lines 46--46
- []\TU/lmr/m/n/10 aang 
- []
-
-
-Overfull \hbox (1.04301pt too wide) in paragraph at lines 46--46
- []\TU/lmr/m/n/10 /yu/ 
- []
-
-> Step: build the whole table.
-
-Overfull \hbox (0.76302pt too wide) in paragraph at lines 46--46
- []\TU/lmr/m/n/10 aang 
- []
-
-
-Overfull \hbox (1.04301pt too wide) in paragraph at lines 46--46
- []\TU/lmr/m/n/10 /yu/ 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[3
+[1
 
 ]
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-> Step: build the whole table.
+Chapter 1.
+) (out/testament.ind)
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[2
 
-
-
-[4]) (./chapters/1-stories.tex
-Missing character: There is no 䭁 (U+4B41) in font BabelStone Han/OT:script=hani;language=dflt;!
-
-
-[5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[8]) (out/multiverse.ind)
-
-[9] (out/multiverse.aux)
+] (out/testament.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
@@ -1228,12 +1157,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 32161 strings out of 473832
- 774508 string characters out of 5729481
- 1339417 words of memory out of 5000000
- 54657 multiletter control sequences out of 15000+600000
- 574659 words of font info for 124 fonts, out of 8000000 for 9000
+ 31580 strings out of 473832
+ 749563 string characters out of 5729481
+ 1259225 words of memory out of 5000000
+ 54078 multiletter control sequences out of 15000+600000
+ 570943 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 121i,20n,127p,707b,1294s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,11n,123p,534b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/multiverse.pdf (9 pages).
+Output written on out/testament.pdf (2 pages).
