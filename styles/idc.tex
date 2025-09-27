@@ -55,46 +55,37 @@
 % Define Cantonese tone commands (1-6)
 \newcommand{\toneone}[1]{%
   \ooalign{%
-    \hfil#1\hfil\cr  % Main text (unscaled)
-    \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{0.8}{'}}\hfil\cr % Tone mark (scaled and raised)
+    #1\cr
+    \hspace{0.9em}\raisebox{0.85ex}{\rlap{\scalebox{0.6}{'}}}\cr
   }%
 }
 \newcommand{\tonetwo}[1]{%
   \ooalign{%
-    \hfil#1\hfil\cr  % Main text (unscaled)
-    \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{0.8}{ˊ}}\hfil\cr % Tone mark (scaled and raised)
+    #1\cr
+    \hspace{0.7em}\raisebox{0.95ex}{\rlap{\scalebox{0.6}{ˊ}}}\cr
   }%
 }
 \newcommand{\tonethree}[1]{%
   \ooalign{%
-    \hfil#1\hfil\cr  % Main text (unscaled)
-    \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{0.8}{ˋ}}\hfil\cr % Tone mark (scaled and raised)
+    #1\cr
+    \hspace{0.7em}\raisebox{0.95ex}{\rlap{\scalebox{0.6}{ˋ}}}\cr
   }%
 }
 \newcommand{\tonefour}[1]{%
   \ooalign{%
-    \hfil#1\hfil\cr  % Main text (unscaled)
-    \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{0.8}{"}}\hfil\cr % Tone mark (scaled and raised)
+    #1\cr
+    \hspace{0.9em}\raisebox{0.85ex}{\rlap{\scalebox{0.6}{"}}}\cr
   }%
 }
 \newcommand{\tonefive}[1]{%
   \ooalign{%
-    \hfil#1\hfil\cr  % Main text (unscaled)
-    \hfil\hspace{1.3em}\raisebox{0.2em}{\scalebox{1}{\rotatebox{70}{゛}}}\hfil\cr % Tone mark (scaled and raised)
+    #1\cr
+    \hspace{0.7em}\raisebox{0.35ex}{\rlap{\scalebox{1}{\rotatebox{70}{゛}}}}\cr
   }%
 }
 \newcommand{\tonesix}[1]{%
   \ooalign{%
-    \hfil#1\hfil\cr  % Main text (unscaled)
-    \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{1}{゛}}\hfil\cr % Tone mark (scaled and raised)
+    #1\cr
+    \hspace{0.5em}\raisebox{0.35ex}{\rlap{\scalebox{1}{゛}}}\cr
   }%
 }
-\newcommand{\tonedouble}[1]{%
-  \ooalign{%
-    \hfil#1\hfil\cr  % Main text (unscaled)
-    \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{0.8}{、、}}\hfil\cr % Tone mark (scaled and raised)
-  }%
-}
-% ゛
-
-
