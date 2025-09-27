@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  26 SEP 2025 01:02
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  27 SEP 2025 09:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/hongjan/Documents/book-poems/poems
-(/Users/hongjan/Documents/book-poems/poems.tex
+**/Users/hongjan/Documents/book-nationbuilding/nationbuilding
+(/Users/hongjan/Documents/book-nationbuilding/nationbuilding.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
@@ -284,37 +284,36 @@ Package fontspec Info:
 Package fontspec Info: 
 (fontspec)             Font family 'JyutcitziWithPMingLiURegular(0)' created
 (fontspec)             for font 'JyutcitziWithPMingLiURegular' with options
-(fontspec)             [Path = ./submodules/fonts/,Extension = .ttf].
+(fontspec)             [Path = ../fonts/,Extension = .ttf].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[./submodules/fonts/JyutcitziWithPMingLiURegular.ttf]/OT:language=dflt;"
+(fontspec)             <->"[../fonts/JyutcitziWithPMingLiURegular.ttf]/OT:language=dflt;"
 
 
 Package fontspec Info: 
 (fontspec)             Font family 'JyutcitziWithSourceHanSerifTCRegular(0)'
 (fontspec)             created for font 'JyutcitziWithSourceHanSerifTCRegular'
-(fontspec)             with options [Path = ./submodules/fonts/,Extension =
-(fontspec)             .ttf].
+(fontspec)             with options [Path = ../fonts/,Extension = .ttf].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[./submodules/fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;"
+(fontspec)             <->"[../fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;"
 
 
 Package fontspec Info: 
 (fontspec)             Font family 'batang(0)' created for font 'batang' with
-(fontspec)             options [Path = ./submodules/fonts/,Extension = .ttf].
+(fontspec)             options [Path = ../fonts/,Extension = .ttf].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[./submodules/fonts/batang.ttf]/OT:language=dflt;"
+(fontspec)             <->"[../fonts/batang.ttf]/OT:language=dflt;"
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/epigraph/epigraph.sty
 Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
@@ -626,10 +625,10 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 )
 \@indexfile=\write3
-\openout3 = `poems.idx'.
+\openout3 = `nationbuilding.idx'.
 
 
-Writing index file poems.idx
+Writing index file nationbuilding.idx
 (/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box92
@@ -999,8 +998,8 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \stackedbox=\box137
 \@centerbox=\box138
 \c@ROWcellindex@=\count393
-)) (out/poems.aux)
-\openout1 = `poems.aux'.
+)) (out/nationbuilding.aux)
+\openout1 = `nationbuilding.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
@@ -1128,26 +1127,26 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Warning: Font shape `TU/BabelStoneHan(0)/b/n' undefined
 (Font)              using `TU/BabelStoneHan(0)/m/n' instead on input line 43.
 
-(out/poems.toc
+(out/nationbuilding.toc
 
 LaTeX Font Warning: Font shape `TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n' undefined
 (Font)              using `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n' instead on input line 1.
 
 )
 \tf@toc=\write5
-\openout5 = `poems.toc'.
+\openout5 = `nationbuilding.toc'.
 
- (./chapters/0-sample.tex) (./chapters/1.tex
+ (./chapters/1.tex
 
 [1
 
 ]
 Chapter 1.
-) (out/poems.ind)
+) (./chapters/2.tex) (out/nationbuilding.ind)
 
 [2
 
-] (out/poems.aux)
+] (out/nationbuilding.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
@@ -1158,12 +1157,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 31659 strings out of 473832
- 754982 string characters out of 5729481
- 1268346 words of memory out of 5000000
- 54158 multiletter control sequences out of 15000+600000
+ 31575 strings out of 473832
+ 748745 string characters out of 5729481
+ 1258615 words of memory out of 5000000
+ 54074 multiletter control sequences out of 15000+600000
  570935 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 121i,11n,123p,705b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,11n,123p,1846b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/poems.pdf (2 pages).
+Output written on out/nationbuilding.pdf (2 pages).

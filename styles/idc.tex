@@ -36,8 +36,65 @@
 
 % Define the \tone command for upper right positioning of a diacritic
 \newcommand{\tone}[2]{%
+  \ifnum#2=1 \toneone{#1}%
+  \else\ifnum#2=2 \tonetwo{#1}%
+  \else\ifnum#2=3 \tonethree{#1}%
+  \else\ifnum#2=4 \tonefour{#1}%
+  \else\ifnum#2=5 \tonefive{#1}%
+  \else\ifnum#2=6 \tonesix{#1}%
+  \else\ifnum#2=7 \tonedouble{#1}%
+  \else
+    % Fallback: treat #2 as literal diacritic mark
+    \ooalign{%
+      \hfil#1\hfil\cr  % Main text (unscaled)
+      \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{0.8}{#2}}\hfil\cr % Tone mark (scaled and raised)
+    }%
+  \fi\fi\fi\fi\fi\fi\fi
+}
+
+% Define Cantonese tone commands (1-6)
+\newcommand{\toneone}[1]{%
   \ooalign{%
     \hfil#1\hfil\cr  % Main text (unscaled)
-    \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{0.8}{#2}}\hfil\cr % Tone mark (scaled and raised)
+    \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{0.8}{'}}\hfil\cr % Tone mark (scaled and raised)
   }%
 }
+\newcommand{\tonetwo}[1]{%
+  \ooalign{%
+    \hfil#1\hfil\cr  % Main text (unscaled)
+    \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{0.8}{ˊ}}\hfil\cr % Tone mark (scaled and raised)
+  }%
+}
+\newcommand{\tonethree}[1]{%
+  \ooalign{%
+    \hfil#1\hfil\cr  % Main text (unscaled)
+    \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{0.8}{ˋ}}\hfil\cr % Tone mark (scaled and raised)
+  }%
+}
+\newcommand{\tonefour}[1]{%
+  \ooalign{%
+    \hfil#1\hfil\cr  % Main text (unscaled)
+    \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{0.8}{"}}\hfil\cr % Tone mark (scaled and raised)
+  }%
+}
+\newcommand{\tonefive}[1]{%
+  \ooalign{%
+    \hfil#1\hfil\cr  % Main text (unscaled)
+    \hfil\hspace{1.3em}\raisebox{0.2em}{\scalebox{1}{\rotatebox{70}{゛}}}\hfil\cr % Tone mark (scaled and raised)
+  }%
+}
+\newcommand{\tonesix}[1]{%
+  \ooalign{%
+    \hfil#1\hfil\cr  % Main text (unscaled)
+    \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{1}{゛}}\hfil\cr % Tone mark (scaled and raised)
+  }%
+}
+\newcommand{\tonedouble}[1]{%
+  \ooalign{%
+    \hfil#1\hfil\cr  % Main text (unscaled)
+    \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{0.8}{、、}}\hfil\cr % Tone mark (scaled and raised)
+  }%
+}
+% ゛
+
+
