@@ -1,0 +1,46 @@
+% ==============================
+% JAPANESE KATAKANA STACKING MACROS
+% ==============================
+
+% (1) Tight top-bottom stack for kana-like fusions
+\newcommand{\jtb}[2]{%
+  \scalebox{2}[1]{%  % ← elongate horizontally by 2×
+    \ooalign{%
+      \hfil\raisebox{0.45em}{\scalebox{0.65}{#1}}\hfil\cr % top element
+      \hfil\raisebox{-0.1em}{\scalebox{0.65}{#2}}\hfil\cr % bottom element
+    }%
+  }%
+}
+
+
+% (2) Tight left-right fusion (for kana appended to the side of kanji)
+\newcommand{\jlr}[2]{%
+  \ooalign{%
+    \hfil#1\hfil\cr
+    \hspace{0.55em}\raisebox{0.05em}{\scalebox{0.45}{#2}}\hfil\cr
+  }%
+}
+
+% (3) Inner overlay — kana or Latin letter inside the kanji body (like 話ョ or 鯨ク)
+\newcommand{\jin}[2]{%
+  \ooalign{%
+    \hfil#1\hfil\cr
+    \hfil\raisebox{0.05em}{\scalebox{0.45}{#2}}\hfil\cr
+  }%
+}
+
+% (4) Top-right diacritic or kana addition (for kana marks like small ョ, or dakuten)
+\newcommand{\jur}[2]{%
+  \ooalign{%
+    #1\cr
+    \hspace{0.75em}\raisebox{0.75em}{\scalebox{0.45}{#2}}\cr
+  }%
+}
+
+% (5) Top-left variant (for kana on upper-left of kanji)
+\newcommand{\jul}[2]{%
+  \ooalign{%
+    #1\cr
+    \hspace{-0.75em}\raisebox{0.75em}{\scalebox{0.45}{#2}}\cr
+  }%
+}
