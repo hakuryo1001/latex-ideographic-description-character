@@ -38,6 +38,7 @@
 
 % Define the \tone command for upper right positioning of a diacritic
 \newcommand{\tone}[2]{%
+  \begingroup
   \ifnum#2=1 \toneone{#1}%
   \else\ifnum#2=2 \tonetwo{#1}%
   \else\ifnum#2=3 \tonethree{#1}%
@@ -52,42 +53,55 @@
       \hfil\hspace{0.9em}\raisebox{0.3em}{\scalebox{0.8}{#2}}\hfil\cr % Tone mark (scaled and raised)
     }%
   \fi\fi\fi\fi\fi\fi\fi
+  \endgroup
 }
 
 % Define Cantonese tone commands (1-6)
 \newcommand{\toneone}[1]{%
+  \begingroup
   \ooalign{%
     #1\cr
     \hspace{0.9em}\raisebox{0.85ex}{\rlap{\scalebox{0.6}{'}}}\cr
   }%
+  \endgroup
 }
 \newcommand{\tonetwo}[1]{%
+  \begingroup
   \ooalign{%
     #1\cr
     \hspace{0.7em}\raisebox{0.95ex}{\rlap{\scalebox{0.6}{ˊ}}}\cr
   }%
+  \endgroup
 }
 \newcommand{\tonethree}[1]{%
+  \begingroup
   \ooalign{%
     #1\cr
     \hspace{0.7em}\raisebox{0.95ex}{\rlap{\scalebox{0.6}{ˋ}}}\cr
   }%
+  \endgroup
 }
 \newcommand{\tonefour}[1]{%
+  \begingroup
   \ooalign{%
     #1\cr
     \hspace{0.9em}\raisebox{0.85ex}{\rlap{\scalebox{0.6}{"}}}\cr
   }%
+  \endgroup
 }
 \newcommand{\tonefive}[1]{%
+  \begingroup
   \ooalign{%
     #1\cr
     \hspace{0.7em}\raisebox{0.35ex}{\rlap{\scalebox{1}{\rotatebox{70}{゛}}}}\cr
   }%
+  \endgroup
 }
 \newcommand{\tonesix}[1]{%
+  \begingroup
   \ooalign{%
     #1\cr
     \hspace{0.5em}\raisebox{0.35ex}{\rlap{\scalebox{1}{゛}}}\cr
   }%
+  \endgroup
 }
